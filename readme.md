@@ -2,6 +2,7 @@
 
 ![Boostnote app screenshot](./resources/repository/top.png)
 
+<h3 align="center">Boostnote v0.11.8</h3>
 <h4 align="center">Note-taking app for programmers. </h4>
 <h5 align="center">Apps available for Mac, Windows, Linux, Android and iOS.</h5>
 <h5 align="center">Built with Electron, React + Redux, Webpack and CSSModules.</h5>
